@@ -79,13 +79,17 @@ https://grandvolgatour.github.io/
 
 ### 📍 Конаково {#gvt-p4}
  - Сосновый бор и смотровая площадка
+ - [https://yandex.ru/maps/-/CHQLzZYB](https://yandex.ru/maps/-/CHQLzZYB)
+ - 56.705108, 36.749283
 
 
  - ##### 🚢📍 Переправа через канал. Конаковская сторона {#gvt-p4-1}
-   - @
+   - [https://yandex.ru/maps/-/CHQLzZOi](https://yandex.ru/maps/-/CHQLzZOi)
+   - 56.705118, 36.712557
 
  - ##### 🚢📍 Переправа через канал. Со стороны Дубны {#gvt-p4-2}
-   - @
+   - [https://yandex.ru/maps/-/CHQLzZ9K](https://yandex.ru/maps/-/CHQLzZ9K)
+   - 56.695921, 36.732630
 
 
 
