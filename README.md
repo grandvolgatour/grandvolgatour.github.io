@@ -79,6 +79,7 @@ https://grandvolgatour.github.io/
 
 
 
+
 ### 📍 Конаково {#gvt-p4}
  - Сосновый бор и смотровая площадка
  - [https://yandex.ru/maps/-/CHQLzZYB](https://yandex.ru/maps/-/CHQLzZYB)
@@ -94,6 +95,7 @@ https://grandvolgatour.github.io/
    - [https://yandex.ru/maps/-/CHQLzKp9](https://yandex.ru/maps/-/CHQLzKp9)
    - 56.714377, 37.134082
    
+
 
 
 
