@@ -10,6 +10,8 @@ https://grandvolgatour.github.io/
 
 https://grandvolgatour.github.io/map/
 
+![](map-preview.png)
+
 
 ## 🏆 Квалификационные этапы
 
