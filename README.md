@@ -8,9 +8,9 @@ https://grandvolgatour.github.io/
 
 ## Map 
 
-https://grandvolgatour.github.io/map/
+[https://grandvolgatour.github.io/map/](https://grandvolgatour.github.io/map/)
 
-![](map-preview.png)
+[![](map-preview.png)](https://grandvolgatour.github.io/map/)
 
 
 ## 🏆 Квалификационные этапы
