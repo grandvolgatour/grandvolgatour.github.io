@@ -85,11 +85,9 @@ https://grandvolgatour.github.io/
  - [https://yandex.ru/maps/-/CHQLzZYB](https://yandex.ru/maps/-/CHQLzZYB)
  - 56.705108, 36.749283
 
-
  - ##### 🚢 Переправа через канал (Конаковский берег) {#gvt-p4-1}
    - [https://yandex.ru/maps/-/CHQLzKnn](https://yandex.ru/maps/-/CHQLzKnn)
    - 56.713778, 37.132807
-
 
  - ##### 🚢 Переправа через канал (Дубненский берег) {#gvt-p4-2}
    - [https://yandex.ru/maps/-/CHQLzKp9](https://yandex.ru/maps/-/CHQLzKp9)
