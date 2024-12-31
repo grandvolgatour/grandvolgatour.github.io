@@ -2,11 +2,11 @@
 
 # 🚴‍♂️ Grand Volga Tour
 
-🚴‍♂️ Grand Volga Tour
+Описание
 
 https://grandvolgatour.github.io/
 
-## Map 
+## 🗺 Карта маршрута
 
 [https://grandvolgatour.github.io/map/](https://grandvolgatour.github.io/map/)
 
