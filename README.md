@@ -1,8 +1,15 @@
+<link rel="icon" href="bicyclist.png" type="image/png">
+
 # 🚴‍♂️ Grand Volga Tour
 
 🚴‍♂️ Grand Volga Tour
 
 https://grandvolgatour.github.io/
+
+## Map 
+
+https://grandvolgatour.github.io/map/
+
 
 ## 🏆 Квалификационные этапы
 
