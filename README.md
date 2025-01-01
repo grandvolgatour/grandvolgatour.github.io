@@ -72,45 +72,50 @@ https://grandvolgatour.github.io/
  - Памятник А.С. Пушкину на набережной Волги
  - [https://yandex.ru/maps/-/CHQ1vF1J](https://yandex.ru/maps/-/CHQ1vF1J)
  - 56.863514, 35.901868
+ - ![gvt-3-tver](gvt-3-tver-100px.jpg)
 
  - ##### 🚢 Переправа Топорок (с тверской стороны напротив Конаково) {#gvt-3.1-toporok}
     - [https://yandex.ru/maps/-/CHQLzZOi](https://yandex.ru/maps/-/CHQLzZOi)
     - 56.705118, 36.712557
+    - ![gvt-3-1-toporok](gvt-3-1-toporok-100px.jpg)
 
  - ##### 🚢 Переправа Зеленый Бор. В Конаково {#gvt-3.2-zelbor}
     - [https://yandex.ru/maps/-/CHQLzZ9K](https://yandex.ru/maps/-/CHQLzZ9K)
     - 56.695921, 36.732630
+    - ![gvt-3-2-zelbor](gvt-3-2-zelbor-100px.jpg)
 
-
-
+   
 
 ### 📍 Конаково {#gvt-4-konakovo}
  - Сосновый бор и смотровая площадка
  - [https://yandex.ru/maps/-/CHQLzZYB](https://yandex.ru/maps/-/CHQLzZYB)
  - 56.705108, 36.749283
+ - ![gvt-4-konakovo](gvt-4-konakovo-100px.jpg)
 
  - ##### 🚢 Переправа через канал (Конаковский берег) {#gvt-4.1-kanal}
    - [https://yandex.ru/maps/-/CHQLzKnn](https://yandex.ru/maps/-/CHQLzKnn)
    - 56.713778, 37.132807
+   - ![gvt-4-1-kanal](gvt-4-1-kanal-100px.jpg)
 
  - ##### 🚢 Переправа через канал (Дубненский берег) {#gvt-4.2-kanal}
    - [https://yandex.ru/maps/-/CHQLzKp9](https://yandex.ru/maps/-/CHQLzKp9)
    - 56.714377, 37.134082
+   - ![gvt-4-2-kanal](gvt-4-2-kanal-100px.jpg)
    
 
-
-
-
+   
 ### 📍 Дубна {#gvt-5-dubna}
  - Памятник В.И. Ленину
  - [https://yandex.ru/maps/-/CHQ1vSkg](https://yandex.ru/maps/-/CHQ1vSkg)
  - 56.730965, 37.124717
+ - ![gvt-5-dubna](gvt-5-dubna-100px.jpg)
 
 
 ### 📍 Кимры (Савелово) {#gvt-6-kimry}
  - Песчаная набережная на стороне вокзала
  - [https://yandex.ru/maps/-/CHQ1zR5U](https://yandex.ru/maps/-/CHQ1zR5U)
  - 56.857229, 37.365838
+ - ![gvt-6-kimry](gvt-6-kimry-100px.jpg)
 
 
 ### 📍 Калязин {#gvt-7-kalyazin}
