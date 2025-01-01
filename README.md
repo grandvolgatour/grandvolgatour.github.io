@@ -58,14 +58,14 @@ https://grandvolgatour.github.io/
  - Старая колокольня в центральном парке
  - [https://yandex.ru/maps/-/CHQ1v4Ip](https://yandex.ru/maps/-/CHQ1v4Ip)
  - 57.155667, 33.100617
- - ![gvt-1-ostashkov](/map/images-sizes/gvt-1-ostashkov-610px.jpg)
+ - ![gvt-1-ostashkov](https://grandvolgatour.github.io/map/images-sizes/gvt-1-ostashkov-610px.jpg){width=200}
 
 
 ### 📍 Торжок {#gvt-2-torzhok}
  - Пешеходный старый вантовый мост рядом с памятником Н.А. Львову
  - [https://yandex.ru/maps/-/CHQ1vFIA](https://yandex.ru/maps/-/CHQ1vFIA)
  - 57.040948, 34.961115
- - ![gvt-2-torzhok](/map/images-sizes/gvt-2-torzhok-610px.jpg)
+ - ![gvt-2-torzhok](https://grandvolgatour.github.io/map/images-sizes/gvt-2-torzhok-610px.jpg)
 
 
 ### 📍 Тверь {#gvt-3-tver}
