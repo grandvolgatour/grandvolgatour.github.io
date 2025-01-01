@@ -1,4 +1,4 @@
-<link rel="icon" href="bicyclist.png" type="image/png">
+
 
 # 🚴‍♂️ Grand Volga Tour
 
