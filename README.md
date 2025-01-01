@@ -54,6 +54,14 @@ https://grandvolgatour.github.io/
 ## 🌠 Ключевые пункты маршрута
 
 
+###  📍 Волговерховье {#gvt-0-volgoverkhovie}
+- \* Специальный дополнителньый отрезок
+- Исток Волги
+- [https://yandex.ru/maps/-/CHQXb0mh](https://yandex.ru/maps/-/CHQXb0mh)
+- 57.251332, 32.467774
+- ![gvt-1-ostashkov](https://grandvolgatour.github.io/map/images-sizes/gvt-0-volgoverkhovie-1000px.jpg){: .wide-image }
+
+
 
 ###  📍 Осташков {#gvt-1-ostashkov}
  - Старая колокольня в центральном парке
