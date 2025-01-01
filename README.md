@@ -1,7 +1,7 @@
 
 ---
 layout: default
-css: styles.css
+css: custom-style.css
 ---
 
 
