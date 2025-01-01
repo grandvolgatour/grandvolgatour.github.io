@@ -1,9 +1,5 @@
 
----
-layout: default
-css: custom-style.css
----
-
+<link rel="stylesheet" type="text/css" href="custom-style.css">
 
 # 🚴‍♂️ Grand Volga Tour
 
