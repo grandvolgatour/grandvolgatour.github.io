@@ -187,7 +187,7 @@ https://grandvolgatour.github.io/
 - ??
 - [https://yandex.ru/maps/-/CHad7ClO](https://yandex.ru/maps/-/CHad7ClO)
 - 57.462546, 40.572427
-- ![gvt-12.1-nerehta](https://grandvolgatour.github.io/map/images-sizes/gvt-12.1-nerehta-1200px.jpg){: .wide-image }
+- ![gvt-12-1-nerehta](https://grandvolgatour.github.io/map/images-sizes/gvt-12.1-nerehta-1200px.jpg){: .wide-image }
 
 
 
