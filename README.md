@@ -399,58 +399,44 @@ route
 
 
 ### 🚂 Осташков - Кувшиново {#rw1a}
-[https://rasp.yandex.ru/all-transport/bologoe--ostashkov](https://rasp.yandex.ru/all-transport/bologoe--ostashkov)
+https://rasp.yandex.ru/all-transport/
+
 
 ### 🚂 Торжок - Тверь {#rw2}
-
-[https://rasp.yandex.ru/all-transport/]()
+https://rasp.yandex.ru/all-transport/
 
 
 ### 🚂 Кимры (Савелово) - Калязин {#rw7}
-
 https://rasp.yandex.ru/all-transport/
 
 
 ### 🚂 Калязин - Углич {#rw8}
-
 https://rasp.yandex.ru/all-transport/
-
 
 
 ### 🚂 Калязин - ст. Волга (Глебово) {#rw9}
-
 https://rasp.yandex.ru/all-transport/
-
 
 
 ### 🚂 ст. Волга (Глебово) - Рыбинск {#rw10}
-
 https://rasp.yandex.ru/all-transport/
-
 
 
 ### 🚂 Рыбинск - Тутаев - Ярославль {#rw11}
-
 https://rasp.yandex.ru/all-transport/
-
 
 
 ### 🚂 Ярославль - Нерехта (на поезде) {#rw12}
-
 https://rasp.yandex.ru/all-transport/
-
 
 
 ### 🚂 Нерехта - Кострома (на поезде) {#rw123}
-
 https://rasp.yandex.ru/all-transport/
-
 
 
 ### 🚂 Заволжье (Городец) - Нижний Новгород (на поезде){#rw18}
-
 https://rasp.yandex.ru/all-transport/
 
 
-## etc.
+## ETC
 
