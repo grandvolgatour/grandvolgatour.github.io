@@ -392,7 +392,7 @@ route
  - ![](map/images/p18-nnovgorod-1200px.jpg){: .wide-image }
 
 
-## 🚂 Железные дороги
+## 🚄 Железные дороги
 
 ### 🚂 Бологое - Осташков {#rw1}
 [https://rasp.yandex.ru/all-transport/bologoe--ostashkov](https://rasp.yandex.ru/all-transport/bologoe--ostashkov)
