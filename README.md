@@ -395,14 +395,11 @@ route
 ## 🚂 Железные дороги
 
 ### 🚂 Бологое - Осташков {#rw1}
-
-https://rasp.yandex.ru/all-transport/bologoe--ostashkov
+[](https://rasp.yandex.ru/all-transport/bologoe--ostashkov)
 
 
 ### 🚂 Осташков - Кувшиново {#rw1a}
-
-https://rasp.yandex.ru/all-transport/bologoe--ostashkov
-
+[](https://rasp.yandex.ru/all-transport/bologoe--ostashkov)
 
 ### 🚂 Торжок - Тверь {#rw2}
 
