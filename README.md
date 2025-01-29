@@ -42,6 +42,11 @@ https://grandvolgatour.github.io/
     Cуммарно 1318 км.
 
 
+[https://docs.google.com/spreadsheets/d/1z5-CzmRIbPkew-f6SSFUgQ3wbhUkAabSoU6qMdtF9dg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1z5-CzmRIbPkew-f6SSFUgQ3wbhUkAabSoU6qMdtF9dg/edit?usp=sharing)
+
+[https://docs.google.com/spreadsheets/d/e/2PACX-1vT8h9m4AnF9oQbkU9akU3kSo-2bf9v3fLYsoSmiwfcqbyZicdwBpAp7kJ79bJNfqG314GIYlWrbcg-b/pubhtml?gid=1064073865&single=true](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8h9m4AnF9oQbkU9akU3kSo-2bf9v3fLYsoSmiwfcqbyZicdwBpAp7kJ79bJNfqG314GIYlWrbcg-b/pubhtml?gid=1064073865&single=true)
+
+
 ### Категории Квалификации
 
  - #### Полная квалификация - 1318 км.
