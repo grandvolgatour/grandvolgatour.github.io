@@ -35,13 +35,13 @@ https://grandvolgatour.github.io/
 # Waypoint P89
 # Location L876
 
-    Суммарно: 1175 км.
+    Суммарно: 1120 км.
 
  - Экстра этапы:
    - Исток Волги (Осташков - Волговерховье - Осташков) [145 км]
 
     
-    Cуммарно 1318 км.
+    Cуммарно 1250 км.
 
 
 [https://docs.google.com/spreadsheets/d/1z5-CzmRIbPkew-f6SSFUgQ3wbhUkAabSoU6qMdtF9dg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1z5-CzmRIbPkew-f6SSFUgQ3wbhUkAabSoU6qMdtF9dg/edit?usp=sharing)
