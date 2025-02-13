@@ -1,9 +1,7 @@
 
 <link rel="stylesheet" type="text/css" href="custom-style.css">
 
-# 🚴‍♂ Волжский Гранд Тур
-
-## 🚴‍♂️ Volga Grand Tour
+# 🚴‍♂️ Волжский Гранд Тур (Volga Grand Tour)
 
 https://grandvolgatour.github.io/
 
