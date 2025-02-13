@@ -100,9 +100,6 @@ https://grandvolgatour.github.io/
 
 [https://docs.google.com/spreadsheets/d/e/2PACX-1vT8h9m4AnF9oQbkU9akU3kSo-2bf9v3fLYsoSmiwfcqbyZicdwBpAp7kJ79bJNfqG314GIYlWrbcg-b/pubhtml?gid=1064073865&single=true](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8h9m4AnF9oQbkU9akU3kSo-2bf9v3fLYsoSmiwfcqbyZicdwBpAp7kJ79bJNfqG314GIYlWrbcg-b/pubhtml?gid=1064073865&single=true)
 
-![](imgs/table-waypoints.jpg)
-
-
 
 
 
