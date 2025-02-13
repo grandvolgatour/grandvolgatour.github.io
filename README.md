@@ -127,7 +127,7 @@ https://grandvolgatour.github.io/
 **Waypoint:**  
 Исток Волги  
 57.251332, 32.467774  
-[https://yandex.ru/maps/-/CHQXb0mh](https://yandex.ru/maps/-/CHQXb0mh)
+[https://yandex.ru/maps/-/CHQXb0mh](https://yandex.ru/maps/-/CHQXb0mh){:target="_blank"}
 
 
 
@@ -153,7 +153,7 @@ https://grandvolgatour.github.io/
 **Waypoint:**  
 Старая колокольня в центральном парке  
 57.155667, 33.100617  
-[https://yandex.ru/maps/-/CHQ1v4Ip](https://yandex.ru/maps/-/CHQ1v4Ip)
+[https://yandex.ru/maps/-/CHQ1v4Ip](https://yandex.ru/maps/-/CHQ1v4Ip){:target="_blank"}
 
 
 
@@ -179,7 +179,7 @@ https://grandvolgatour.github.io/
 **Waypoint:**  
 Пешеходный старый вантовый мост рядом с памятником Н.А. Львову  
 57.040948, 34.961115  
-[https://yandex.ru/maps/-/CHQ1vFIA](https://yandex.ru/maps/-/CHQ1vFIA)  
+[https://yandex.ru/maps/-/CHQ1vFIA](https://yandex.ru/maps/-/CHQ1vFIA){:target="_blank"}
 
 
 
@@ -202,7 +202,7 @@ route
 **Waypoint:**  
 Памятник А.С. Пушкину на набережной Волги  
 56.863514, 35.901868  
-[https://yandex.ru/maps/-/CHQ1vF1J](https://yandex.ru/maps/-/CHQ1vF1J)
+[https://yandex.ru/maps/-/CHQ1vF1J](https://yandex.ru/maps/-/CHQ1vF1J){:target="_blank"}
 
 
 
@@ -224,7 +224,7 @@ route
 **Waypoint:**  
 #### 🚢 Паромная переправа Топорок {#river-1}  
 56.705118, 36.712557  
-[https://yandex.ru/maps/-/CHQLzZOi](https://yandex.ru/maps/-/CHQLzZOi)
+[https://yandex.ru/maps/-/CHQLzZOi](https://yandex.ru/maps/-/CHQLzZOi){:target="_blank"}
 
 ![](map/images/p3a-toporok-1200px.jpg){: .wide-image }
 
@@ -232,7 +232,7 @@ route
 
 #### 🚢 Переправа Зеленый Бор. В Конаково {#p3b}  
 56.695921, 36.732630  
-[https://yandex.ru/maps/-/CHQLzZ9K](https://yandex.ru/maps/-/CHQLzZ9K)  
+[https://yandex.ru/maps/-/CHQLzZ9K](https://yandex.ru/maps/-/CHQLzZ9K){:target="_blank"}
 
 
 ![](map/images/p3b-zelbor-1200px.jpg){: .wide-image }
@@ -248,7 +248,7 @@ route
 **Waypoint:**  
 Сосновый бор и смотровая площадка  
 56.705108, 36.749283  
-[https://yandex.ru/maps/-/CHQLzZYB](https://yandex.ru/maps/-/CHQLzZYB)
+[https://yandex.ru/maps/-/CHQLzZYB](https://yandex.ru/maps/-/CHQLzZYB){:target="_blank"}
 
 
 
@@ -264,14 +264,14 @@ route
 **Waypoint:**  
 #### 🚢 Переправа через канал (Конаковский берег) {#river-2}
 56.713778, 37.132807  
-[https://yandex.ru/maps/-/CHQLzKnn](https://yandex.ru/maps/-/CHQLzKnn)
+[https://yandex.ru/maps/-/CHQLzKnn](https://yandex.ru/maps/-/CHQLzKnn){:target="_blank"}
 
 
 ![](map/images/p4a-kanal-1200px.jpg){: .wide-image }
 
 #### 🚢 Переправа через канал (Дубненский берег) {#p4b}  
 56.714377, 37.134082  
-[https://yandex.ru/maps/-/CHQLzKp9](https://yandex.ru/maps/-/CHQLzKp9)  
+[https://yandex.ru/maps/-/CHQLzKp9](https://yandex.ru/maps/-/CHQLzKp9){:target="_blank"} 
 
 
 ![](map/images/p4b-kanal-1200px.jpg){: .wide-image }
@@ -288,7 +288,7 @@ route
 **Waypoint:**  
 Памятник В.И. Ленину  
 56.730965, 37.124717  
-[https://yandex.ru/maps/-/CHQ1vSkg](https://yandex.ru/maps/-/CHQ1vSkg)
+[https://yandex.ru/maps/-/CHQ1vSkg](https://yandex.ru/maps/-/CHQ1vSkg){:target="_blank"}
 
 
 
@@ -314,7 +314,7 @@ route
 **Waypoint:**  
 Песчаная набережная на стороне вокзала  
 56.857229, 37.365838  
-[https://yandex.ru/maps/-/CHQ1zR5U](https://yandex.ru/maps/-/CHQ1zR5U)
+[https://yandex.ru/maps/-/CHQ1zR5U](https://yandex.ru/maps/-/CHQ1zR5U){:target="_blank"}
 
 
 
@@ -352,7 +352,7 @@ route
 **Waypoint:**  
 Смотровая площадка на набережной с видом колокольни  
 57.241691, 37.855486  
-[https://yandex.ru/maps/-/CHQ1j8-m](https://yandex.ru/maps/-/CHQ1j8-m)
+[https://yandex.ru/maps/-/CHQ1j8-m](https://yandex.ru/maps/-/CHQ1j8-m){:target="_blank"}
 
 
 
