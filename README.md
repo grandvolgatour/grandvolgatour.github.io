@@ -122,7 +122,7 @@ https://grandvolgatour.github.io/
 
 Уединённая атмосфера, красивая природа и ощущение прикосновения к истокам делают это место по-настоящему особенным.
 
-![](map/images/p0-volgoverkhovie-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p0-volgoverkhovie-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Исток Волги  
@@ -134,7 +134,7 @@ https://grandvolgatour.github.io/
 
 ## 🧭 A0 Сегмент. Осташков - Волговреховье (круговой) [142 км. суммарно]{#a0}
 
-![](imgs/a0/map.jpg){:class="lazy"}
+![](imgs/a0/map.jpg){:class="wide-image"}
 
 Путь сложный с грейдером.
 
@@ -148,7 +148,7 @@ https://grandvolgatour.github.io/
 Здесь можно отправиться в водное путешествие по озеру, посетить величественную Нило-Столобенскую пустынь,
 прогуляться по старинным улочкам и насладиться тишиной русской глубинки.
 
-![](map/images/p1-ostashkov-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p1-ostashkov-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Старая колокольня в центральном парке  
@@ -161,7 +161,7 @@ https://grandvolgatour.github.io/
 
 ## 🧭 A1. Осташков - Торжок [128 км.] {#a1}
 
-![](imgs/a1/map.jpg){:class="lazy"}
+![](imgs/a1/map.jpg){:class="wide-image"}
 
 
 
@@ -171,7 +171,7 @@ https://grandvolgatour.github.io/
 Торжок — старинный город с неповторимым русским колоритом. 
 Здесь можно увидеть величественные золотые купола Борисоглебского монастыря, пройтись по старинным мостам через Тверцу и заглянуть в дом-музей поэта Николая Львова. 
 
-![](map/images/p2-torzhok-1200px.jpg){: .wide-image }
+![](map/images/p2-torzhok-1200px.jpg)
 
 Торжок славится традицией золотного шитья, а в местных ресторанах стоит попробовать знаменитые пожарские котлеты.
 Город очаровывает своей историей, уютной атмосферой и красотой провинциальной России.
@@ -188,7 +188,7 @@ https://grandvolgatour.github.io/
 
 ## 🧭 A2. Торжок - Тверь [80 км.] {#a2}
 
-![](imgs/a2/map.jpg){:class="lazy"}
+![](imgs/a2/map.jpg){:class="wide-image"}
 
 route
 
@@ -197,7 +197,8 @@ route
 ### Тверь {#p3}
 
 
-![](map/images/p3-tver-1200px.jpg){: .wide-image }{:class="lazy"}
+
+![](map/images/p3-tver-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Памятник А.С. Пушкину на набережной Волги  
@@ -215,7 +216,7 @@ route
 
 ## 🧭 A3. Тверь - Конаково [72 км.] {#a3}
 
-![](imgs/a3/map.jpg){:class="lazy"}
+![](imgs/a3/map.jpg){:class="wide-image"}
 
 route
 
@@ -226,7 +227,7 @@ route
 56.705118, 36.712557  
 [https://yandex.ru/maps/-/CHQLzZOi](https://yandex.ru/maps/-/CHQLzZOi){:target="_blank"}
 
-![](map/images/p3a-toporok-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p3a-toporok-1200px.jpg){:class="wide-image"}
 
 
 
@@ -235,7 +236,7 @@ route
 [https://yandex.ru/maps/-/CHQLzZ9K](https://yandex.ru/maps/-/CHQLzZ9K){:target="_blank"}
 
 
-![](map/images/p3b-zelbor-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p3b-zelbor-1200px.jpg){:class="wide-image"}
 
 
 
@@ -243,7 +244,7 @@ route
 ### 📍 Конаково {#p4}
 
 
-![](map/images/p4-konakovo-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p4-konakovo-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Сосновый бор и смотровая площадка  
@@ -267,14 +268,14 @@ route
 [https://yandex.ru/maps/-/CHQLzKnn](https://yandex.ru/maps/-/CHQLzKnn){:target="_blank"}
 
 
-![](map/images/p4a-kanal-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p4a-kanal-1200px.jpg){:class="wide-image"}
 
 #### 🚢 Переправа через канал (Дубненский берег) {#p4b}  
 56.714377, 37.134082  
 [https://yandex.ru/maps/-/CHQLzKp9](https://yandex.ru/maps/-/CHQLzKp9){:target="_blank"} 
 
 
-![](map/images/p4b-kanal-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p4b-kanal-1200px.jpg){:class="wide-image"}
  
 
 
@@ -282,7 +283,7 @@ route
 
 
 
-![](map/images/p5-dubna-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p5-dubna-1200px.jpg){:class="wide-image"}
 
 
 **Waypoint:**  
@@ -300,7 +301,7 @@ route
 
 ## 🧭 B2. Дубна - Кимры (Савелово) [35 км.] {#b2}
 
-![](imgs/b2/map.jpg){:class="lazy"}
+![](imgs/b2/map.jpg){:class="wide-image"}
 
 route
 
@@ -309,7 +310,7 @@ route
 
 
 
-![](map/images/p6-kimry-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p6-kimry-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Песчаная набережная на стороне вокзала  
@@ -327,7 +328,7 @@ route
 
 ## 🧭 B3. Кимры (Савелово) - Калязин [87 км.] {#b3}
 
-![](imgs/b3/map.jpg){:class="lazy"}
+![](imgs/b3/map.jpg){:class="wide-image"}
 
 Сложный участок рекомендуется проехать на пригородном поезде или поезде дальнего следования.
 
@@ -338,7 +339,7 @@ route
 
 **Калязин** — уютный провинциальный городок на берегу Волги, который идеально подойдёт для короткой остановки в велопутешествии. Его тишина, атмосферные улочки и уникальные достопримечательности сделают вашу поездку запоминающейся.
 
-![](map/images/p7-kalyazin-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p7-kalyazin-1200px.jpg){:class="wide-image"}
 
 
 Первое, что обязательно стоит увидеть, — затопленная колокольня Никольского собора. Это архитектурное чудо возвышается посреди воды, создавая завораживающий вид. Вы можете полюбоваться колокольней с берега или, если позволяет время, взять лодочную экскурсию, чтобы увидеть её ближе.
@@ -364,7 +365,7 @@ route
 
 ## 🧭 C1. Калязин - Углич [54 км.] {#c1}
 
-![](imgs/c1/map.jpg){:class="lazy"}
+![](imgs/c1/map.jpg){:class="wide-image"}
 
 Проходит по дороге со средним движением пересекющей границу Тверской и Ярославской области.
 
@@ -374,7 +375,7 @@ route
 
 
 
-![](map/images/p8-uglich-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p8-uglich-1200px.jpg){:class="wide-image"}
 
 
 **Waypoint:**  
@@ -390,7 +391,7 @@ route
 
 ## 🧭 C2. Углич - Мышкин [38 км.] {#c2}
 
-![](imgs/c2/map.jpg){:class="lazy"}
+![](imgs/c2/map.jpg){:class="wide-image"}
 
 Красивый сегмент без машин очень спокйоный.
 
@@ -403,7 +404,7 @@ route
 
 
 
-![](map/images/p9-myshkin-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p9-myshkin-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Пристань с торговыми рядами  
@@ -422,7 +423,7 @@ route
 
 
 
-![](imgs/c3/map.jpg){:class="lazy"}
+![](imgs/c3/map.jpg){:class="wide-image"}
 
 Короткий маршрут без машин
 
@@ -433,7 +434,7 @@ route
 [https://yandex.ru/maps/-/CHQ1nFPi](https://yandex.ru/maps/-/CHQ1nFPi)
 
 
-![](map/images/p9a-solntsevo-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p9a-solntsevo-1200px.jpg){:class="wide-image"}
 
 
 
@@ -442,7 +443,7 @@ route
 [https://yandex.ru/maps/-/CHQ1nJOC](https://yandex.ru/maps/-/CHQ1nJOC)
 
 
-![](map/images/p9b-glebovo-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p9b-glebovo-1200px.jpg){:class="wide-image"}
 
 
 
@@ -458,7 +459,7 @@ route
 ### 📍 Рыбинск {#p10}
 
 
-![](map/images/p10-rybinsk-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p10-rybinsk-1200px.jpg){:class="wide-image"}
 
 
 **Waypoint:**  
@@ -475,7 +476,7 @@ route
 
 ## 🧭 C5. Рыбинск - Тутаев [57 км.] {#c5}
 
-![](imgs/c5/map.jpg){:class="lazy"}
+![](imgs/c5/map.jpg){:class="wide-image"}
 
 Очень красивый маршрут совершенно без машин по красивым извилистым местам.
 
@@ -491,7 +492,7 @@ route
 
 
 
-![](map/images/p11-tutayev-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p11-tutayev-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Смотровая площадка храма и Волги (напротив дома Дмитриева с красивым видом на Казанскую-Преображенскую церковь)  
@@ -503,7 +504,7 @@ route
 
 ## 🧭 C6. Тутаев - Ярославль [49 км.] {#c6}
 
-![](imgs/c6/map.jpg){:class="lazy"}
+![](imgs/c6/map.jpg){:class="wide-image"}
 
 Красивый маршрут без автомобилей с заездом в Тутаев красивый город и монастырю Толга около Ярославля.
 
@@ -512,7 +513,7 @@ route
 
 
 
-![](map/images/p12-yaroslavl-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p12-yaroslavl-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Смотровая площадка на стрелке  
@@ -530,7 +531,7 @@ route
 
 ## 🧭 D1. Ярославль - Кострома [82 км.] {#d1}
 
-![](imgs/d1/map.jpg){:class="lazy"}
+![](imgs/d1/map.jpg){:class="wide-image"}
 
 Сложный сегмент с большой дорогой и автомобилями.
 
@@ -545,7 +546,7 @@ route
 
 
 
-![](map/images/p12a-nerehta-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p12a-nerehta-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 ??  
@@ -567,7 +568,7 @@ route
 
 
 
-![](map/images/p13-kostroma-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p13-kostroma-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Сусанинская площадь в центре, Кострома  
@@ -580,7 +581,7 @@ route
 
 ## 🧭 D2. Кострома - Красное на Волге [37 км.] {#d2}
 
-![](imgs/d2/map.jpg){:class="lazy"}
+![](imgs/d2/map.jpg){:class="wide-image"}
 
 Спокойная и приятная дорога.
 
@@ -591,14 +592,14 @@ route
 [https://yandex.ru/maps/-/CHQ1n88Q](https://yandex.ru/maps/-/CHQ1n88Q)
 
 
-![](map/images/p13a-krasnoe-pozhni-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p13a-krasnoe-pozhni-1200px.jpg){:class="wide-image"}
 
 ####  📍🚢 Переправа Красные Пожни. Пристань {#p13b}  
 57.486621, 41.234187  
 [https://yandex.ru/maps/-/CHQ1n0Yf](https://yandex.ru/maps/-/CHQ1n0Yf)  
 
 
-![](map/images/p13b-pozhni-ples-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p13b-pozhni-ples-1200px.jpg){:class="wide-image"}
 
 
 
@@ -607,7 +608,7 @@ route
 
 ## 🧭 D3. Красное на Волге - Плёс [36 км.] {#d3}
 
-![](imgs/d3/map.jpg){:class="lazy"}
+![](imgs/d3/map.jpg){:class="wide-image"}
 
 route
 
@@ -618,7 +619,7 @@ route
 
 
 
-![](map/images/p14-ples-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p14-ples-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Памятник Ф.И. Шаляпину на набережной  
@@ -642,7 +643,7 @@ route
 
 
 
-![](map/images/p15-kineshma-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p15-kineshma-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**
 Смотровая площадка на стрелке  
@@ -666,7 +667,7 @@ route
 
 
 
-![](map/images/p16-yurevets-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p16-yurevets-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Центральная площадь рядом с Георгиевской колокольней  
@@ -686,7 +687,7 @@ route
 
 
 
-![](map/images/p17-gorodets-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p17-gorodets-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Памятник Александру Невскому на смотровой площадке  
@@ -707,7 +708,7 @@ route
 ### 📍 Нижний Новгород {#p18}
 
 
-![](map/images/p18-nnovgorod-1200px.jpg){: .wide-image }{:class="lazy"}
+![](map/images/p18-nnovgorod-1200px.jpg){:class="wide-image"}
 
 **Waypoint:**  
 Чкаловская лестница рядом с Кремлем (памятник В.П. Чкалова)  
