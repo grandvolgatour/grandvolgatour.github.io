@@ -262,7 +262,7 @@ route
 
 ## 🧭 B1. Конаково - Дубна [29 км.] {#b1}
 
-[![](imgs/b1/map.jpg)](map/)
+[![](imgs/b1/map.jpg){:class="map-piece"}](map/)
 
 route
 
