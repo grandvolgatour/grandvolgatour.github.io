@@ -6,9 +6,8 @@
 
 
 .map-piece{
-    border-radius: 20px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    border-radius: .75rem;
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.3);
     object-fit: cover;
-    filter: blur(5px);
     transition: filter 0.3s ease;
 }
