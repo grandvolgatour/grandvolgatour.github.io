@@ -127,13 +127,13 @@ https://grandvolgatour.github.io/
 
 
 
+
+
 ## 🧭 A0 Сегмент. Осташков - Волговреховье (круговой) [142 км. суммарно]{#a0}
 
-[![](imgs/a0/map.jpg){:class="map-piece"}](map/?lat=57.180791&lon=32.791747&zoom=6){:target="_blank"}
+[![](imgs/a0/map.jpg){:class="map-piece"}](map/?lat=57.180791&lon=32.791747&zoom=8){:target="_blank"}
 
 Путь сложный с грейдером.
-
-
 
 
 
@@ -154,9 +154,12 @@ https://grandvolgatour.github.io/
 
 
 
+
+
+
 ## 🧭 A1. Осташков - Торжок [128 км.] {#a1}
 
-[![](imgs/a1/map.jpg){:class="map-piece"}](map/?lat=57.067270&lon=34.031892&zoom=6){:target="_blank"}
+[![](imgs/a1/map.jpg){:class="map-piece"}](map/?lat=57.067270&lon=34.031892&zoom=8){:target="_blank"}
 
 
 
@@ -187,7 +190,7 @@ https://grandvolgatour.github.io/
 
 ## 🧭 A2. Торжок - Тверь [80 км.] {#a2}
 
-[![](imgs/a2/map.jpg){:class="map-piece"}](map/?lat=56.942514&lon=35.435724&zoom=7){:target="_blank"}
+[![](imgs/a2/map.jpg){:class="map-piece"}](map/?lat=56.942514&lon=35.435724&zoom=8){:target="_blank"}
 
 route
 
@@ -270,7 +273,7 @@ route
 
 ## 🧭 B1. Конаково - Дубна [29 км.] {#b1}
 
-[![](imgs/b1/map.jpg){:class="map-piece"}](map/?lat=56.687397&lon=36.932699&zoom=9){:target="_blank"}
+[![](imgs/b1/map.jpg){:class="map-piece"}](map/?lat=56.687397&lon=36.932699&zoom=8){:target="_blank"}
 
 route
 
@@ -314,6 +317,7 @@ route
 Памятник В.И. Ленину  
 56.730965, 37.124717  
 [https://yandex.ru/maps/-/CHQ1vSkg](https://yandex.ru/maps/-/CHQ1vSkg){:target="_blank"}
+
 
 
 
