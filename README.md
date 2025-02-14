@@ -129,7 +129,7 @@ https://grandvolgatour.github.io/
 
 ## 🧭 A0 Сегмент. Осташков - Волговреховье (круговой) [142 км. суммарно]{#a0}
 
-[![](imgs/a0/map.jpg){:class="map-piece"}](map/?lon=32.791747&lat=57.180791&zoom=10){:target="_blank"}
+[![](imgs/a0/map.jpg){:class="map-piece"}](map/?lat=57.180791&lon=32.791747&zoom=6){:target="_blank"}
 
 Путь сложный с грейдером.
 
@@ -156,7 +156,7 @@ https://grandvolgatour.github.io/
 
 ## 🧭 A1. Осташков - Торжок [128 км.] {#a1}
 
-[![](imgs/a1/map.jpg){:class="map-piece"}](map/?lon=34.0318915&lat=57.06727&zoom=10){:target="_blank"}
+[![](imgs/a1/map.jpg){:class="map-piece"}](map/?lat=57.067270&lon=34.031892&zoom=6){:target="_blank"}
 
 
 
@@ -187,7 +187,7 @@ https://grandvolgatour.github.io/
 
 ## 🧭 A2. Торжок - Тверь [80 км.] {#a2}
 
-[![](imgs/a2/map.jpg){:class="map-piece"}](map/?lon=35.43572399999999&lat=56.942514&zoom=10){:target="_blank"}
+[![](imgs/a2/map.jpg){:class="map-piece"}](map/?lat=56.942514&lon=35.435724&zoom=7){:target="_blank"}
 
 route
 
@@ -224,7 +224,7 @@ route
 
 ## 🧭 A3. Тверь - Конаково [72 км.] {#a3}
 
-[![](imgs/a3/map.jpg){:class="map-piece"}](map/?lon=36.3112505&lat=56.78417&zoom=10){:target="_blank"}
+[![](imgs/a3/map.jpg){:class="map-piece"}](map/?lat=56.784170&lon=36.311250&zoom=8){:target="_blank"}
 
 route
 
@@ -270,7 +270,7 @@ route
 
 ## 🧭 B1. Конаково - Дубна [29 км.] {#b1}
 
-[![](imgs/b1/map.jpg){:class="map-piece"}](map/){:target="_blank"}
+[![](imgs/b1/map.jpg){:class="map-piece"}](map/?lat=56.687397&lon=36.932699&zoom=9){:target="_blank"}
 
 route
 
