@@ -306,7 +306,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/b1/map.jpg){:class="map-piece"}](map/?lat=56.687397&lon=36.932699&zoom=10.6){:target="_blank"}
+[![](imgs/b1/map.jpg){:class="map-piece"}](map/?minlat=56.661083&minlon=36.73272&maxlat=56.713711&maxlon=37.132679){:target="_blank"}
 
 ROUTE
 
@@ -370,7 +370,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/b2/map.jpg){:class="map-piece"}](map/?lat=56.794471&lon=37.247474&zoom=10){:target="_blank"}
+[![](imgs/b2/map.jpg){:class="map-piece"}](map/?minlat=56.714427&minlon=37.118807&maxlat=56.874514&maxlon=37.376142){:target="_blank"}
 
 ROUTE
 
@@ -404,7 +404,7 @@ ROUTE
 
 Сложный участок рекомендуется проехать на пригородном поезде или поезде дальнего следования.
 
-[![](imgs/b3/map.jpg){:class="map-piece"}](map/?lat=57.024828&lon=37.680253&zoom=9){:target="_blank"}
+[![](imgs/b3/map.jpg){:class="map-piece"}](map/?minlat=56.807963&minlon=37.366923&maxlat=57.241692&maxlon=37.993584){:target="_blank"}
 
 ROUTE
 
@@ -442,7 +442,7 @@ ROUTE
 
 Проходит по дороге со средним движением пересекющей границу Тверской и Ярославской области.
 
-[![](imgs/c1/map.jpg){:class="map-piece"}](map/?lat=57.380561&lon=38.113291&zoom=9.5){:target="_blank"}
+[![](imgs/c1/map.jpg){:class="map-piece"}](map/?minlat=57.230447&minlon=37.854467&maxlat=57.530675&maxlon=38.372115){:target="_blank"}
 
 ROUTE
 
@@ -483,7 +483,7 @@ ROUTE
 
 По пути есть несколько мест на берегу для ночевки.
 
-[![](imgs/c2/map.jpg){:class="map-piece"}](map/?lat=57.654199&lon=38.356325&zoom=9.5){:target="_blank"}
+[![](imgs/c2/map.jpg){:class="map-piece"}](map/?minlat=57.522378&minlon=38.255324&maxlat=57.786019&maxlon=38.457327){:target="_blank"}
 
 ROUTE
 
@@ -524,7 +524,7 @@ ROUTE
 
 Короткий маршрут без машин
 
-[![](imgs/c3/map.jpg){:class="map-piece"}](map/?lat=57.887059&lon=38.438443&zoom=9.5){:target="_blank"}
+[![](imgs/c3/map.jpg){:class="map-piece"}](map/?minlat=57.785788&minlon=38.409533&maxlat=57.988331&maxlon=38.467353){:target="_blank"}
 
 ROUTE
 
@@ -564,7 +564,7 @@ ROUTE
 
 Тяжелая дорога с большим трафиком.
 
-[![](imgs/c4/map.jpg)](map/?lat=58.023544&lon=38.648742&zoom=10.3){:target="_blank"}
+[![](imgs/c4/map.jpg)](map/?minlat=57.986387&minlon=38.444356&maxlat=58.0607&maxlon=38.853129){:target="_blank"}
 
 ROUTE
 
@@ -609,7 +609,7 @@ ROUTE
 
 Любимое место И. Левитана на Волге.
 
-[![](imgs/c5/map.jpg){:class="map-piece"}](map/?lat=57.971327&lon=39.196084&zoom=9.7){:target="_blank"}
+[![](imgs/c5/map.jpg){:class="map-piece"}](map/?minlat=57.88056&minlon=38.852094&maxlat=58.062094&maxlon=39.540075){:target="_blank"}
 
 ROUTE
 
@@ -648,7 +648,7 @@ ROUTE
 
 Красивый маршрут без автомобилей с заездом в Тутаев красивый город и монастырю Толга около Ярославля.
 
-[![](imgs/c6/map.jpg){:class="map-piece"}](map/?lat=57.752852&lon=39.723047&zoom=9.5){:target="_blank"}
+[![](imgs/c6/map.jpg){:class="map-piece"}](map/?minlat=57.62164&minlon=39.53597&maxlat=57.884064&maxlon=39.910125){:target="_blank"}
 
 ROUTE
 
@@ -694,7 +694,7 @@ ROUTE
 
 Или также проехать до Нерехты, а оттуда по приятной дороге без машин.
 
-[![](imgs/d1/map.jpg){:class="map-piece"}](map/?lat=57.651373&lon=40.416880&zoom=9.3){:target="_blank"}
+[![](imgs/d1/map.jpg){:class="map-piece"}](map/?minlat=57.535088&minlon=39.882604&maxlat=57.767657&maxlon=40.951155){:target="_blank"}
 
 ROUTE
 
@@ -735,7 +735,7 @@ ROUTE
 
 Хороший прекрасный сегмент. 
 
-lat=57.621562&lon=40.749735&zoom=8
+minlat=57.461316&minlon=40.548316&maxlat=57.781809&maxlon=40.951155
 
 ROUTE
 
@@ -773,7 +773,7 @@ ROUTE
 
 Спокойная и приятная дорога.
 
-[![](imgs/d2/map.jpg){:class="map-piece"}](map/?lat=57.631304&lon=41.081861&zoom=9.5){:target="_blank"}
+[![](imgs/d2/map.jpg){:class="map-piece"}](map/?minlat=57.494946&minlon=40.926262&maxlat=57.767661&maxlon=41.2374){:target="_blank"}
 
 ROUTE
 
@@ -812,7 +812,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/d3/map.jpg){:class="map-piece"}](map/?lat=57.463797&lon=41.369035&zoom=11){:target="_blank"}
+[![](imgs/d3/map.jpg){:class="map-piece"}](map/?minlat=57.440811&minlon=41.224742&maxlat=57.486784&maxlon=41.513329){:target="_blank"}
 
 ROUTE
 
@@ -849,7 +849,7 @@ ROUTE
 
 Интересный маршрут с кусочком гравия. Красивые виды.
 
-lat=57.431145&lon=41.843871&zoom=8
+minlat=57.387047&minlon=41.513029&maxlat=57.475244&maxlon=42.174713
 
 ROUTE
 
@@ -883,7 +883,7 @@ ROUTE
 
 Приятный маршрут
 
-lat=57.376980&lon=42.641189&zoom=8
+minlat=57.310811&minlon=42.171044&maxlat=57.443149&maxlon=43.111334
 
 ROUTE
 
@@ -915,7 +915,7 @@ ROUTE
 
 Очень приятный и спокойный маршрут
 
-lat=56.973029&lon=43.199245&zoom=8
+minlat=56.627441&minlon=42.929973&maxlat=57.318618&maxlon=43.46851
 
 ROUTE
 
@@ -949,7 +949,7 @@ ROUTE
 
 Хороший и красивый маршрут.
 
-lat=56.483719&lon=43.737132&zoom=8
+minlat=56.32461&minlon=43.464878&maxlat=56.642829&maxlon=44.00938
 
 ROUTE
 
