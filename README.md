@@ -133,7 +133,7 @@ https://grandvolgatour.github.io/
 
 Путь сложный с грейдером.
 
-[![](imgs/a0/map.jpg){:class="map-piece"}](map/?lat=57.180791&lon=32.791747&zoom=9.5){:target="_blank"}
+[![](imgs/a0/map.jpg){:class="map-piece"}](map/?minlat=57.095777&minlon=32.469663&maxlat=57.265805&maxlon=33.113831){:target="_blank"}
 
 ROUTE
 
@@ -171,7 +171,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/a1/map.jpg){:class="map-piece"}](map/?lat=57.067270&lon=34.031892&zoom=8.5){:target="_blank"}
+[![](imgs/a1/map.jpg){:class="map-piece"}](map/?minlat=56.978122&minlon=33.102927&maxlat=57.156418&maxlon=34.960856){:target="_blank"}
 
 ROUTE
 
@@ -212,7 +212,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/a2/map.jpg){:class="map-piece"}](map/?lat=56.942514&lon=35.435724&zoom=9.5){:target="_blank"}
+[![](imgs/a2/map.jpg){:class="map-piece"}](map/?minlat=56.844166&minlon=34.960314&maxlat=57.040862&maxlon=35.911134){:target="_blank"}
 
 ROUTE
 
@@ -249,7 +249,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/a3/map.jpg){:class="map-piece"}](map/?lat=56.784170&lon=36.311250&zoom=9.7){:target="_blank"}
+[![](imgs/a3/map.jpg){:class="map-piece"}](map/?minlat=56.700907&minlon=35.909769&maxlat=56.867433&maxlon=36.712732){:target="_blank"}
 
 ROUTE
 
